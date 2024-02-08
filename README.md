@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saaaaakibhai" alt="saaaaakibhai" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently studying at North South University
+- 🔭 I’m currently studying at [North South University](https://www.northsouth.edu/) 
 
 - 🌱 I’m currently learning **Android Development & Machine Learning & Spring Boot**
 
