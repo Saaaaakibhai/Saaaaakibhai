@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s-m-mahedi-hasan-09a8452ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-mahedi-hasan-09a8452ab" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/s-m-mahedi-hasan-09a8452ab](https://www.linkedin.com/in/s-m-mahedi-hasan-09a8452ab/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-mahedi-hasan-09a8452ab" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17532842/s-m-mahedi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17532842/s-m-mahedi-hasan" height="30" width="40" /></a>
 <a href="https://kaggle.com/smmahedihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smmahedihasan" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=61555615381422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61555615381422" height="30" width="40" /></a>
