@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaaaakibhai&label=Profile%20views&color=0e75b6&style=flat" alt="saaaaakibhai" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🔭 I’m currently studying at [North South University](https://www.northsouth.edu/) 
 
 - 🌱 I’m currently learning **Android Development & Machine Learning & Spring Boot**
