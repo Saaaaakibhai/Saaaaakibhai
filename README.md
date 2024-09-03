@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying at [North South University](https://www.northsouth.edu/) 
 
-- 🌱 I’m currently learning **Android Development & Machine Learning & Spring Boot**
+- 🌱 I’m currently learning **Spring Boot & Android Development & Machine Learning **
 
 - 🤝 I’m interested to contribute with [Machine Learning](https://github.com/Saaaaakibhai/MachineLearing)
 
