@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently studying at [North South University](https://www.northsouth.edu/) 
+- 🔭 I’m Grad From [North South University](https://www.northsouth.edu/) 
 
-- 🌱 I’m currently learning **Spring Boot & Android Development & Machine Learning**
+- 🌱 I’m currently learning **Devops Engineering**
 
 - 🤝 I’m interested to contribute with [Machine Learning](https://github.com/Saaaaakibhai/MachineLearing)
 
