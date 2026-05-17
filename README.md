@@ -48,29 +48,51 @@
 
 # 💻 Tech Stack
 
-## 🚀 DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,githubactions,terraform" />
+## ☁️ DevOps & Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,prometheus,grafana,linux,bash,nginx,cloudflare,git,github,vscode,postman" />
 </p>
+
+---
 
 ## ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=java,nodejs,express,php,mongodb,mysql,firebase" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,python" />
 </p>
+
+---
+
+## 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+</p>
+
+---
 
 ## 🌐 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs" />
 </p>
+
+---
 
 ## 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter" />
 </p>
 
+---
+
 ## 🤖 Machine Learning & Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=idea,eclipse,ubuntu,stackoverflow,figma" />
 </p>
 
 ---
