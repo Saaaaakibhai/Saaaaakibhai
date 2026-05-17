@@ -25,7 +25,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/s-m-mahedi-hasan-09a8452ab](https://www.linkedin.com/in/s-m-mahedi-hasan-6966973a5/)" target="_blank"> 
+<a href="https://www.linkedin.com/in/s-m-mahedi-hasan-6966973a5/" target="_blank"> 
 <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 <a href="https://github.com/Saaaaakibhai" target="_blank">
