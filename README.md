@@ -50,7 +50,7 @@
 
 ## ☁️ DevOps & Cloud
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,prometheus,grafana,linux,bash,nginx,cloudflare,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,prometheus,grafana,linux,bash,nginx,cloudflare,git" />
 </p>
 
 ---
@@ -83,16 +83,16 @@
 
 ---
 
-## 🤖 Machine Learning & Data Science
+## 🤖 Machine Learning & Data Science,
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
 </p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=idea,eclipse,ubuntu,stackoverflow,figma" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,ubuntu,stackoverflow,github,postman" />
 </p>
 
 ---
