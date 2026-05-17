@@ -70,7 +70,7 @@
 
 ## 🤖 Machine Learning & Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 ---
