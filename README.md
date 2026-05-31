@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://github.com/user-attachments/assets/ba477c3d-38c3-44ff-83d5-572efaec32d1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineering;DevOps+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+GitHub+Actions;CI%2FCD+%7C+Monitoring+%7C+GitOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineering;DevOps+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+GitHub+Actions;CI%2FCD+%7C+Monitoring+%7C+GitOps" />
 
 <p>
 <a href="mailto:hasan117384@gmail.com">
@@ -122,14 +122,6 @@ Reliability:
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saaaaakibhai&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaaakibhai&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaaakibhai&theme=github-dark-blue&hide_border=true" />
 </p>
 
@@ -145,17 +137,9 @@ Reliability:
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://github.com/Saaaaakibhai/Saaaaakibhai/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <div align="center">
 
-### Building Cloud-Native Systems Through Automation, Reliability, and Continuous Improvement 🚀
+### Building Cloud-Native Systems Through Automation, Reliability, and Continuous Improvement..
 
 ### Available for Remote DevOps & Cloud Engineering Opportunities 🌍
 
