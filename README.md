@@ -54,10 +54,9 @@ Junior Cloud & DevOps Engineer passionate about building scalable cloud infrastr
 
 <p align="center">
 
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=argocd,helm,sonarqube,trivy" />
+</p>
 
 </p>
 
