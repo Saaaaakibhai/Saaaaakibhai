@@ -2,8 +2,6 @@
 
 <img width="1983" height="793" alt="GithubBanner" src="https://github.com/user-attachments/assets/ba477c3d-38c3-44ff-83d5-572efaec32d1" />
 
-# S. M. Mahedi Hasan
-
 ### Cloud & DevOps Engineer
 
 Building cloud-native infrastructure, automating software delivery, and improving system reliability through modern DevOps practices.
@@ -211,12 +209,6 @@ Continuous learning drives continuous improvement
 ---
 
 ## GitHub Statistics
-
-<p align="center">
-  
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saaaaakibhai&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaaakibhai&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaaakibhai&theme=github-dark-blue&hide_border=true" />
