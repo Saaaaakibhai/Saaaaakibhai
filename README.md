@@ -1,13 +1,10 @@
 <div align="center">
 
-<img width="1983" height="793" alt="GithubBanner" src="https://github.com/user-attachments/assets/ba477c3d-38c3-44ff-83d5-572efaec32d1" />
+<img width="100%" src="https://github.com/user-attachments/assets/ba477c3d-38c3-44ff-83d5-572efaec32d1" />
 
-### Cloud & DevOps Engineer
-
-Building cloud-native infrastructure, automating software delivery, and improving system reliability through modern DevOps practices.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineering;DevOps+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+GitHub+Actions;CI%2FCD+%7C+Monitoring+%7C+GitOps" />
 
 <p>
-
 <a href="mailto:hasan117384@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
 </a>
@@ -19,170 +16,125 @@ Building cloud-native infrastructure, automating software delivery, and improvin
 <a href="https://github.com/Saaaaakibhai">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
 </a>
-
 </p>
 
 </div>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a Junior Cloud & DevOps Engineer with experience in backend development and a strong interest in infrastructure automation, container platforms, and cloud-native systems.
+Junior Cloud & DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
 
-My work focuses on helping applications move from development to production through reliable deployment pipelines, infrastructure automation, monitoring, and operational best practices.
-
-I enjoy building systems that are:
-
-* Reliable
-* Scalable
-* Observable
-* Secure
-* Maintainable
+* ☁️ AWS & Cloud Infrastructure
+* ☸️ Kubernetes & Container Orchestration
+* 🐳 Docker & Microservices
+* 🔄 CI/CD Automation
+* 🏗️ Infrastructure as Code
+* 📊 Monitoring & Observability
+* 🌍 Open to Remote Opportunities
 
 ---
 
-## What I Bring
-
-### Cloud & Infrastructure
-
-* Containerized application deployments
-* Kubernetes-based workloads
-* Infrastructure provisioning
-* Linux system administration
-* Cloud architecture fundamentals
-
-### DevOps & Automation
-
-* CI/CD pipeline implementation
-* Build and deployment automation
-* Git-based workflows
-* Infrastructure as Code practices
-* Developer productivity improvements
-
-### Reliability & Monitoring
-
-* Metrics collection
-* Dashboard creation
-* Infrastructure monitoring
-* Application observability
-* Incident visibility
-
----
-
-## Technology Stack
+## ⚡ Tech Stack
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,linux,bash,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,nginx" />
 </p>
 
-### Backend Development
+### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,redis" />
 </p>
 
-### Databases
+### DevSecOps & GitOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<p align="center">
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+
 </p>
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 ### 📄 NoPaper
 
-Document Management Platform
+Enterprise Document Management System built during internship using Spring Boot, REST APIs, MySQL, and scalable backend architecture.
 
-A full-stack enterprise-style application developed during my internship.
+### ☁️ AWS Three-Tier Infrastructure
 
-Key Contributions:
+Production-style AWS architecture using VPC, EC2, Load Balancer, Security Groups, RDS, and S3.
 
-* Designed backend services using Spring Boot
-* Developed REST APIs for document workflows
-* Integrated database operations and business logic
-* Applied scalable architecture principles
-* Collaborated in a professional development environment
+### 🏗️ Terraform Infrastructure as Code
 
----
+Automated AWS infrastructure provisioning using Terraform modules and remote state management.
 
-### ☸️ Kubernetes Deployment Platform
+### ☸️ Kubernetes Production Deployment
 
-A deployment project demonstrating modern container orchestration.
-
-Implemented:
-
-* Docker containerization
-* Kubernetes Deployments
-* Services & Networking
-* ConfigMaps & Secrets
-* Production deployment workflow
-
----
+Containerized application deployment using Kubernetes Deployments, Services, ConfigMaps, Secrets, and scaling strategies.
 
 ### 🔄 CI/CD Automation Pipeline
 
-An automated software delivery workflow built to streamline application deployment.
+End-to-end automation using GitHub, Jenkins, Docker, SonarQube, Trivy, and Kubernetes deployment.
 
-Implemented:
+### 🚀 GitOps Deployment Platform
 
-* Source control integration
-* Automated builds
-* Automated testing
-* Container image publishing
-* Deployment automation
-
----
+Continuous delivery implementation using Kubernetes, ArgoCD, Helm, and GitOps workflows.
 
 ### 📊 Monitoring & Observability Stack
 
-Monitoring solution designed to improve infrastructure visibility.
+Infrastructure monitoring and alerting using Prometheus, Grafana, Node Exporter, and Alertmanager.
 
-Implemented:
+### 🔐 DevSecOps Security Pipeline
 
-* Prometheus metrics collection
-* Grafana dashboards
-* Infrastructure monitoring
-* Resource utilization tracking
-* Operational visibility
+Automated security scanning with SonarQube, Trivy, Docker image analysis, and secure deployment practices.
 
 ---
 
-## Current Learning Path
+## 🎯 Current Focus
 
 ```yaml
 Cloud:
-  - AWS Solutions Architecture
-  - Cloud Native Systems
+  - AWS Solutions Architect
 
 DevOps:
-  - Kubernetes Administration
+  - Kubernetes
   - Terraform
   - GitOps
   - Platform Engineering
 
 Reliability:
   - Site Reliability Engineering
-  - Monitoring & Observability
+  - Observability
 ```
 
 ---
 
-## Professional Goals
+## 📈 GitHub Statistics
 
-* Build production-grade cloud infrastructure
-* Contribute to open-source cloud-native projects
-* Deepen expertise in Kubernetes and platform engineering
-* Earn AWS and Kubernetes certifications
-* Work with globally distributed engineering teams
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saaaaakibhai&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaaakibhai&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaaakibhai&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-## Certifications Roadmap
+## 🏆 Certifications Roadmap
 
 * AWS Certified Cloud Practitioner
 * AWS Solutions Architect Associate
@@ -192,33 +144,18 @@ Reliability:
 
 ---
 
-## Engineering Principles
-
-```text
-Automate repetitive work
-
-Infrastructure should be version controlled
-
-Monitoring is a requirement, not an afterthought
-
-Build systems for reliability and simplicity
-
-Continuous learning drives continuous improvement
-```
-
----
-
-## GitHub Statistics
+## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaaakibhai&theme=github-dark-blue&hide_border=true" />
+<img src="https://github.com/Saaaaakibhai/Saaaaakibhai/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-
 <div align="center">
 
-### Building Reliable Systems Through Automation, Observability, and Continuous Improvement
+### Building Cloud-Native Systems Through Automation, Reliability, and Continuous Improvement 🚀
+
+### Available for Remote DevOps & Cloud Engineering Opportunities 🌍
 
 </div>
