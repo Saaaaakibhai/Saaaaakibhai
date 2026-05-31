@@ -1,114 +1,232 @@
-<h1 align="center">Hi 👋, I'm S. M. Mahedi Hasan</h1>
-<h3 align="center">DevOps Engineer • Cloud Enthusiast • Backend Developer from Bangladesh 🇧🇩</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Cloud+Infrastructure;DevOps+%7C+AWS+%7C+Docker+%7C+Kubernetes;Backend+Developer+%7C+Java+%7C+Node.js;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img width="1983" height="793" alt="GithubBanner" src="https://github.com/user-attachments/assets/ba477c3d-38c3-44ff-83d5-572efaec32d1" />
 
----
+# S. M. Mahedi Hasan
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### Cloud & DevOps Engineer
 
-## 🚀 About Me
+Building cloud-native infrastructure, automating software delivery, and improving system reliability through modern DevOps practices.
 
-- 🎓 Graduate from **North South University**
-- ☁️ Currently focused on **DevOps Engineering & Cloud Infrastructure**
-- 🔥 Passionate about building scalable backend systems and automating deployments
-- 🧠 Interested in **Cloud Computing, Kubernetes, CI/CD, Microservices & Machine Learning**
-- 💻 Strong foundation in **Java, Node.js, Linux, Docker & AWS**
-- 🌍 Looking for **international remote opportunities**
-- 🤝 Open to collaborating on **Open Source & Cloud Projects**
-- ⚡ Fun fact: *"I treat problems like production incidents — debug, optimize, solve."*
+<p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/s-m-mahedi-hasan-6966973a5/" target="_blank"> 
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<a href="mailto:hasan117384@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
 </a>
-<a href="https://github.com/Saaaaakibhai" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
+
+<a href="https://www.linkedin.com/in/s-m-mahedi-hasan-6966973a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://stackoverflow.com/users/17532842/s-m-mahedi-hasan" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="48"/>
+
+<a href="https://github.com/Saaaaakibhai">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://kaggle.com/smmahedihasan" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
-</a>
-<a href="https://www.leetcode.com/saaaaakibhai" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a>
+
 </p>
 
-📧 **Email:** `hasan117384@gmail.com`
+</div>
 
 ---
 
-# 💻 Tech Stack
+## About
 
-## ☁️ DevOps & Cloud
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,prometheus,grafana,linux,bash,nginx,cloudflare,git" />
+I am a Junior Cloud & DevOps Engineer with experience in backend development and a strong interest in infrastructure automation, container platforms, and cloud-native systems.
+
+My work focuses on helping applications move from development to production through reliable deployment pipelines, infrastructure automation, monitoring, and operational best practices.
+
+I enjoy building systems that are:
+
+* Reliable
+* Scalable
+* Observable
+* Secure
+* Maintainable
+
+---
+
+## What I Bring
+
+### Cloud & Infrastructure
+
+* Containerized application deployments
+* Kubernetes-based workloads
+* Infrastructure provisioning
+* Linux system administration
+* Cloud architecture fundamentals
+
+### DevOps & Automation
+
+* CI/CD pipeline implementation
+* Build and deployment automation
+* Git-based workflows
+* Infrastructure as Code practices
+* Developer productivity improvements
+
+### Reliability & Monitoring
+
+* Metrics collection
+* Dashboard creation
+* Infrastructure monitoring
+* Application observability
+* Incident visibility
+
+---
+
+## Technology Stack
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,linux,bash,git" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 ---
 
-## ⚙️ Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,python" />
-</p>
+## Featured Projects
+
+### 📄 NoPaper
+
+Document Management Platform
+
+A full-stack enterprise-style application developed during my internship.
+
+Key Contributions:
+
+* Designed backend services using Spring Boot
+* Developed REST APIs for document workflows
+* Integrated database operations and business logic
+* Applied scalable architecture principles
+* Collaborated in a professional development environment
 
 ---
 
-## 🗄️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
-</p>
+### ☸️ Kubernetes Deployment Platform
+
+A deployment project demonstrating modern container orchestration.
+
+Implemented:
+
+* Docker containerization
+* Kubernetes Deployments
+* Services & Networking
+* ConfigMaps & Secrets
+* Production deployment workflow
 
 ---
 
-## 🌐 Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs" />
-</p>
+### 🔄 CI/CD Automation Pipeline
+
+An automated software delivery workflow built to streamline application deployment.
+
+Implemented:
+
+* Source control integration
+* Automated builds
+* Automated testing
+* Container image publishing
+* Deployment automation
 
 ---
 
-## 📱 Mobile Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter" />
-</p>
+### 📊 Monitoring & Observability Stack
+
+Monitoring solution designed to improve infrastructure visibility.
+
+Implemented:
+
+* Prometheus metrics collection
+* Grafana dashboards
+* Infrastructure monitoring
+* Resource utilization tracking
+* Operational visibility
 
 ---
 
-## 🤖 Machine Learning & Data Science,
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,ubuntu,stackoverflow,github,postman" />
-</p>
-
----
-
-# 🛠 Current Focus
+## Current Learning Path
 
 ```yaml
-Learning:
-  - Kubernetes
-  - Terraform
-  - AWS Cloud Architecture
-  - CI/CD Pipelines
-  - Docker Orchestration
+Cloud:
+  - AWS Solutions Architecture
+  - Cloud Native Systems
 
-Working On:
-  - Cloud Native Applications
-  - DevOps Automation
-  - Scalable Backend APIs
-  - Microservices Architecture
+DevOps:
+  - Kubernetes Administration
+  - Terraform
+  - GitOps
+  - Platform Engineering
+
+Reliability:
+  - Site Reliability Engineering
+  - Monitoring & Observability
+```
+
+---
+
+## Professional Goals
+
+* Build production-grade cloud infrastructure
+* Contribute to open-source cloud-native projects
+* Deepen expertise in Kubernetes and platform engineering
+* Earn AWS and Kubernetes certifications
+* Work with globally distributed engineering teams
+
+---
+
+## Certifications Roadmap
+
+* AWS Certified Cloud Practitioner
+* AWS Solutions Architect Associate
+* HashiCorp Terraform Associate
+* Certified Kubernetes Application Developer (CKAD)
+* Certified Kubernetes Administrator (CKA)
+
+---
+
+## Engineering Principles
+
+```text
+Automate repetitive work
+
+Infrastructure should be version controlled
+
+Monitoring is a requirement, not an afterthought
+
+Build systems for reliability and simplicity
+
+Continuous learning drives continuous improvement
+```
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saaaaakibhai&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaaakibhai&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaaakibhai&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+
+<div align="center">
+
+### Building Reliable Systems Through Automation, Observability, and Continuous Improvement
+
+</div>
