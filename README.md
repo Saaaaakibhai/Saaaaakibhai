@@ -45,10 +45,10 @@ Junior Cloud & DevOps Engineer passionate about building scalable cloud infrastr
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,nginx" />
 </p>
 
-### Backend & Databases
+### Frontend,Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,nodejs,express,mysql,postgres,mongodb,redis" />
 </p>
 
 ### DevSecOps & GitOps
