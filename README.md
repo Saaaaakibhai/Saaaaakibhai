@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-Junior Cloud & DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
+Software Engineer, Cloud & DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
 
 * ☁️ AWS & Cloud Infrastructure
 * ☸️ Kubernetes & Container Orchestration
@@ -33,7 +33,6 @@ Junior Cloud & DevOps Engineer passionate about building scalable cloud infrastr
 * 🔄 CI/CD Automation
 * 🏗️ Infrastructure as Code
 * 📊 Monitoring & Observability
-* 🌍 Open to Remote Opportunities
 
 ---
 
