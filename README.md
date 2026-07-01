@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/ba477c3d-38c3-44ff-83d5-572efaec32d1" />
+<img width="1983" height="793" alt="softwareengineer" src="https://github.com/user-attachments/assets/05908590-b320-46b0-a961-1e50981b9a86" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Engineering;DevOps+Automation;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+GitHub+Actions;CI%2FCD+%7C+Monitoring+%7C+GitOps" />
 
