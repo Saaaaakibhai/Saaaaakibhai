@@ -141,6 +141,6 @@ Reliability:
 
 ### Building Cloud-Native Systems Through Automation, Reliability, and Continuous Improvement..
 
-### Available for Remote DevOps & Cloud Engineering Opportunities 🌍
+### Available for Remote Full Stack Mobile Application/DevOps & Cloud Engineering Opportunities 🌍
 
 </div>
